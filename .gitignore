@@ -1,6 +1,6 @@
-webserver/*.tfstate
-webserver/*.tfstate.*
-webserver2/*.tfstate
-webserver2/*.tfstate.*
+webserver/terraform.tfstate
+webserver/terraform.tfstate.*
+webserver2/terraform.tfstate
+webserver2/terraform.tfstate.*
 webserver/.terraform/*
 webserver2/.terraform/*
